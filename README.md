@@ -1,5 +1,5 @@
 # Trojan-AntiCheat
-Trojan AntiCheat created for CavePvP.org
+Trojan AntiCheat created for CavePvP.org & PvPArcade.gg
 
 # Trojan
 Trojan is a multi-version compatible prediction-based Anti-Cheat. It's meant to be unbypassable (which it is) and completely eliminate the cheating problem lying within Minecraft.
